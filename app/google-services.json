@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724431698528",
+    "firebase_url": "https://persee-63395-default-rtdb.firebaseio.com",
+    "project_id": "persee-63395",
+    "storage_bucket": "persee-63395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724431698528:android:523c74132d31d8b04ee105",
+        "android_client_info": {
+          "package_name": "com.careworks.perseesubscriber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724431698528-egf9s2pp4p660ianv90677ghu36lri5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFfQncYE3zNyy9kA3VscZBrdfdpzf4_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724431698528-egf9s2pp4p660ianv90677ghu36lri5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
